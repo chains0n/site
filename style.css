@@ -1,0 +1,222 @@
+body {
+	font-family: Tahoma;
+	background-image:url(infoph1.jpg);
+	background-color:grey;
+
+}
+.head{
+	border:1px;
+
+   
+}
+
+.info {
+	border: 2px solid black;
+	width:175px;
+	height:120px;
+	background-color: ;
+	margin-top:-224px;
+	margin-left:1020px;
+	border-color:black;
+	color:white;
+	background-color:#7B68EE;
+	text-align:center;
+	
+}
+.info2 {
+	border: 2px solid black;
+	width:800px;
+	height:220px;
+	background-color: ;
+	margin-top:0px;
+	margin-left: 200px;
+	border-color:black;
+	color:white;
+	background-color:#7B68EE;
+	text-align:center;
+}
+
+
+.crated {
+	margin-top: 50px;
+	margin-left: 725px;
+}
+
+.shop {
+	border:2px solid black;
+	width: 182px;
+	height: 42px;
+	text-align: center;
+	margin-top:54px;
+	background-color:#7B68EE;
+
+}
+
+.zakaz {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:-95px;
+	margin-left:1020px;
+	background-color:#7B68EE;
+}
+.dostavka {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:5px; 
+	margin-left:1020px;
+	background-color:#7B68EE;
+}
+
+.map {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:-222px; 
+	margin-left:1215px;
+	background-color:#7B68EE;
+}
+.gallery {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:5px; 
+	margin-left:1215px;
+	background-color:#7B68EE;
+}
+.certificate {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:10px; 
+	margin-left:1215px;
+	background-color:#7B68EE;
+}
+
+.video {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:5px; 
+	margin-left:1215px;
+	background-color:#7B68EE;
+}
+
+.tovar1 {
+	border: 1px;
+	width: 302px;
+	height: 285;
+	margin-left:450px;
+	margin-top: 100px;
+
+}
+
+.tovar2 {
+	border: 1px;
+	width: 302px;
+	height: 285;
+	margin-left:800px;
+	margin-top: -340px;
+}
+
+.text11 {
+	border: 2px solid black;
+	width: 450px;
+	height: 90px;
+	margin-left:550px;
+	margin-top: -10px;
+	color:white;
+	background-color:#7B68EE;
+}
+
+.text1 {
+	border: 2px solid black;
+	width: 450px;
+	height: 90px;
+	margin-left:550px;
+	margin-top: 100px;
+	color:white;
+	background-color:#7B68EE;
+}
+
+.opisanie {
+	border: 0px solid;
+	width: 450px;
+	height: 90px;
+	margin-left:550px;
+	margin-top: 0px;
+	color:white;
+	
+}
+.mestopolozhenie {
+	border: 0px solid;
+	width: 450px;
+	height: 90px;
+	margin-left:100px;
+	margin-top: 20px;
+	color:white;
+}
+h3 {
+	text-align: center;
+	color:black;
+}
+
+.faq {
+	border:2px solid black;
+	width: 175px;
+	height: 40px;
+	text-align: center;
+	margin-top:5px; 
+	margin-left:1215px;
+	background-color:#7B68EE;
+}
+
+.youtube {
+	border: 0px solid black;
+	width: 450px;
+	height: 90px;
+	margin-left: 650px;
+	margin-top: 20px;
+	color:white;
+	
+}
+.h4 {
+	border:2px solid black;
+	text-align: center;
+	color: white;
+	width: 440px;
+	height: 25px;
+	text-align: center;
+	background-color:#7B68EE;
+}
+
+.chastozad {
+	border: 0px solid;
+	width: 450px;
+	height: 90px;
+	margin-left:550px;
+	margin-top: 0px;
+	color:white;
+
+}
+
+.sps {
+	border: 1px solid black;
+	width: 450px;
+	height: 120px;
+	margin-left:550px;
+	margin-top: 0px;
+	color:white;
+	background-color:#7B68EE;
+}
+
+h2 {
+	color:white
+}
